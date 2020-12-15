@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\HP\source\repos\Google_Test\Debug\Sample-Test2.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestConstWithParameters.TestName1" Duration="1" />
+    <TestDuration Test="TestSum.CheckReduce" Duration="0" />
+    <TestDuration Test="TestdefaultConstructor.TestName1" Duration="1" />
+    <TestDuration Test="TestConstructorWithParametres.TestName2" Duration="1" />
+    <TestDuration Test="TestSum.Checkreduce" Duration="1" />
+    <TestDuration Test="TestSum.Checkzero" Duration="1" />
+    <TestDuration Test="TestSum.Checknegativ" Duration="1" />
+    <TestDuration Test="TCheckFile.PrintInFile" Duration="1" />
+    <TestDuration Test="TCheckFile.ReadfromFile" Duration="2" />
+  </TestDurations>
+</GtaTestDurations>

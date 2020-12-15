@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Google_Test\Debug\Google_Test.exe
+C:\Users\HP\source\repos\Google_Test\Debug\Google_Test.pdb
